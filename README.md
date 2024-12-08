@@ -19,3 +19,5 @@ in commande line go to your folder, and then type:
 "node index.js", you should see line printing every second for the ME call, and result appearing a short while after
 
 if you are not a dev, reach out to me (https://x.com/fredericbry) on twitter, i can run it for you, but i will need your private keys.
+
+and please, like and rt my tweet in order to make as many people as possible aware of this
