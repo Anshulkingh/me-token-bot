@@ -14,6 +14,7 @@ then:
 - copy paste in index.js (just below claim wallet) the private keys of your compromised wallets, just replace the "private key 1", etc. Leave only your private keys, remove my examples.
 
 how to use it
+
 in commande line go to your folder, and then type:
 "node index.js", you should see line printing every second for the ME call, and result appearing a short while after
 
