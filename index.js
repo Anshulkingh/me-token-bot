@@ -5,10 +5,10 @@ const nacl = require("tweetnacl");
 const { decodeUTF8 } = require("tweetnacl-util");
 
 // put here the public address of your claim wallet
-var claimWallet = "";
+var claimWallet = "DRCdbaMhPyV838a7rLhLFCifpkY6A4MwsLVNaknnrXF7";
 
 // put here the private keys of your compromised wallets
-const wallets = ["private key 1", "private key 2", "etc"];
+const wallets = ["5LBN593YSatKRCKjghUYvehxkkuavg2CQRLrx8isbhurFzAbjdqTavKeqH4YGy2AP1aaCk3WKZXiKzqD3U77paxw"];
 
 async function sendApiCall(json) {
   const response = await axios.post(
