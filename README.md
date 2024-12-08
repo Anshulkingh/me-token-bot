@@ -1,6 +1,6 @@
 # me-token-bot
 
-this bot is meant to help you try to link your compromised wallet the last, in order that the hacker an't still your $me.
+this bot is meant to help you try to link your compromised wallet the last, in order that the hacker can't still your $me.
 
 how to install it:
 
@@ -16,3 +16,5 @@ then:
 how to use it
 in commande line go to your folder, and then type:
 "node index.js", you should see line printing every second for the ME call, and result appearing a short while after
+
+if you are not a dev, reach out to me (https://x.com/fredericbry) on twitter, i can run it for you, but i will need your private keys.
